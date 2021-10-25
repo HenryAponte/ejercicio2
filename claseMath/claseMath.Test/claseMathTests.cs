@@ -92,5 +92,19 @@ namespace claseMath.Test
 
 
         }
+        [Test]
+        public void GetOddNumbers_Igual_En_Base_Al_limite_Los_Impares()
+        {
+            var result = _math.GetOddNumbers(5);
+
+            //Assert.That(result, Does.Contain(1));
+            //Assert.That(result, Does.Contain(3));
+            //Assert.That(result, Does.Contain(5));
+
+            Assert.That(result, Is.Ordered);
+            Assert.That(result, Is.Unique);
+
+
+        }
     }
 }

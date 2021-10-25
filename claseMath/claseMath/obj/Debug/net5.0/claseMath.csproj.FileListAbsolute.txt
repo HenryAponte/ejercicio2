@@ -9,3 +9,15 @@
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/claseMath/claseMath/claseMath/obj/Debug/net5.0/claseMath.dll
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/claseMath/claseMath/claseMath/obj/Debug/net5.0/ref/claseMath.dll
 /Users/cjcs1/Documents/devsecops/UNITTESTCS/practicas/claseMath/claseMath/claseMath/obj/Debug/net5.0/claseMath.pdb
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\bin\Debug\net5.0\claseMath.deps.json
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\bin\Debug\net5.0\claseMath.dll
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\bin\Debug\net5.0\ref\claseMath.dll
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\bin\Debug\net5.0\claseMath.pdb
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.csprojAssemblyReference.cache
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.AssemblyInfoInputs.cache
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.AssemblyInfo.cs
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.csproj.CoreCompileInputs.cache
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.dll
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\ref\claseMath.dll
+C:\source\Curso Unitest\Ejercicio2\claseMath\claseMath\claseMath\obj\Debug\net5.0\claseMath.pdb
